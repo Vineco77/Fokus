@@ -296,6 +296,10 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Para Celulares */
 @media (max-width: 767px) {
+    .app__image-figure {
+        display: none;
+    }
+    
     .app__section-banner-container {
         width: 32rem;
     }
