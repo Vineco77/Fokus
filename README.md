@@ -4,15 +4,19 @@
 
 #### Link para o Site 🎯
 
-[![Fokus](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([link](https://fokus-gilt.vercel.app/)) 
-
+<div>
+    <a href="https://fokus-gilt.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+</div>
 
 #### ⬇️Pode me chamar no⬇️
 
-[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([link](https://www.linkedin.com/in/vinicius-ribeiro-4690741ba/)) 
-[![WhatsApp ](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([link](https://wa.me/5511943232223)) 
-[![Youtube](	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([link](www.youtube.com/@Devdebotas)) 
-[![Gmail: vinii.viniciusribeiro@gmail.com](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([link](vinii.viniciusribeiro@gmail.com)) 
+<div> 
+    <a href="https://www.linkedin.com/in/vinicius-ribeiro-4690741ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/5511943232223" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="www.youtube.com/@Devdebotas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="vinii.viniciusribeiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+    <h2>vinii.viniciusribeiro@gmail.com</h2>
+</div>
 
 
 #### Tecnologias utilizadas neste projeto 🤖
@@ -21,8 +25,8 @@
 [![CSS](		https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) 
 [![JavaScript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) 
 [![GIT](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#) 
-[![VScode](	https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](#)
 [![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#) 
+[![VScode](	https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](#)
 
 
 #### Conhecimentos Adquiridos durante o processo 🤓
