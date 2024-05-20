@@ -12,7 +12,7 @@ const playMusica = document.querySelector('#alternar-musica');
 const musicaPlay = new Audio('/sons/play.wav');
 const musicaPause = new Audio('/sons/pause.mp3');
 const musicaAcabou = new Audio('./sons/beep.mp3');
-const musica = new Audio('/sons/luna-rise-part-one.mp3');
+const musica = new Audio('/sons/luna-rise-part-one.MP3');
 
 
 musica.loop = true;
